@@ -1,0 +1,16 @@
+vigator_dataPattern = 3;
+        public static final int ActivityNavigator_targetPackage = 4;
+        public static final int[] ColorStateListItem = { 0x10101a5, 0x101031f, 0x7f030028 };
+        public static final int ColorStateListItem_android_color = 0;
+        public static final int ColorStateListItem_android_alpha = 1;
+        public static final int ColorStateListItem_alpha = 2;
+        public static final int[] DialogFragmentNavigator = { 0x1010003 };
+        public static final int DialogFragmentNavigator_android_name = 0;
+        public static final int[] FontFamily = { 0x7f0300e9, 0x7f0300ea, 0x7f0300eb, 0x7f0300ec, 0x7f0300ed, 0x7f0300ee };
+        public static final int FontFamily_fontProviderAuthority = 0;
+        public static final int FontFamily_fontProviderCerts = 1;
+        public static final int FontFamily_fontProviderFetchStrategy = 2;
+        public static final int FontFamily_fontProviderFetchTimeout = 3;
+        public static final int FontFamily_fontProviderPackage = 4;
+        public static final int FontFamily_fontProviderQuery = 5;
+        public static final int[] FontFamilyFont = { 0x1010532, 0x1010533, 0x101053f

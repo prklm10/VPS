@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "803776353088",
+    "firebase_url": "https://vpsfirebaseproject.firebaseio.com",
+    "project_id": "vpsfirebaseproject",
+    "storage_bucket": "vpsfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803776353088:android:d45c4bef5ded175da760a5",
+        "android_client_info": {
+          "package_name": "com.dialer1998.vps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803776353088-nobu93bhcfuegvqa2a6hlo26n422jghe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dialer1998.vps",
+            "certificate_hash": "1128617f5787613d433426775264a72da306a1b5"
+          }
+        },
+        {
+          "client_id": "803776353088-1197kas115t1j4ludbb0o7aablbn6ofs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsSNVRESY9L4a3Hs-5Tv-zUEBuuWfkuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803776353088-1197kas115t1j4ludbb0o7aablbn6ofs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
